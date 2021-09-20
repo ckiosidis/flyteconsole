@@ -1377,10 +1377,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@flyteorg/flyteidl@^0.19.14":
-  version "0.19.14"
-  resolved "https://registry.yarnpkg.com/@flyteorg/flyteidl/-/flyteidl-0.19.14.tgz#cb92a4b54ffb2d6391bff82714f7b3c011d84e69"
-  integrity sha512-cerbEjktjsu54oLzTC3rCNMC+430rx6kwHqO1PYpeloeaSWVFPyRgZmr5+I5hUbqQcCVJXFIfPNEIvDrBVnMkQ==
+"@flyteorg/flyteidl@0.21.2":
+  version "0.21.2"
+  resolved "https://registry.yarnpkg.com/@flyteorg/flyteidl/-/flyteidl-0.21.2.tgz#4d032cfc07aae50ccec61d52832020461081d4f1"
+  integrity sha512-k4pCsaU73J51Yh51Hk5MXC8lSAWt4eD6GvNX/XWjS5JnfDRRMroFc4uZy8I4KkiN4QkMUmJR/8kgpihVVIJTDg==
 
 "@iarna/cli@^1.2.0":
   version "1.2.0"
@@ -13402,6 +13402,11 @@ nan@^2.14.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.15.0.tgz#3f34a473ff18e15c1b5626b62903b5ad6e665fee"
   integrity sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==
+
+nanoid@^3.1.23:
+  version "3.1.25"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.25.tgz#09ca32747c0e543f0e1814b7d3793477f9c8e152"
+  integrity sha512-rdwtIXaXCLFAQbnfqDRnI6jaRHp9fTcYBjtFKE8eezcZ7LuLjhUaQGNeMXf1HmRoCH32CLz6XwX0TtxEOS/A3Q==
 
 napi-build-utils@^1.0.1:
   version "1.0.2"
